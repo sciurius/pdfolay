@@ -11,7 +11,7 @@ pdfolay - insert a PDF document over/under another document
 
 =cut
 
-our $VERSION = '0.01';
+our $VERSION = '0.001';
 
 =head1 SYNOPSIS
 
